@@ -1,0 +1,12 @@
+-Panel de oportunidades: Muestra ideas de inversión en acciones individuales, con cotizaciones en tiempo real, tendencias
+y alertas personalizadas para cada activo
+-Recomendador de acciones: Motor basado en IA o algoritmos estadísticos que sugiere valores interesantes para trading o inversión,
+ajustado a tus objetivos y perfil de riesgo.
+-Seguimiento y análisis gráfico: Visualización de gráficos interactivos de precios, indicadores técnicos y análisis fundamental 
+con noticias relevantes y eventos económicos
+-Gestión de cartera individual: Registro y seguimiento de tus trades mensuales, incluyendo el resultado de rentabilidad 
+y evolución a lo largo del tiempo.
+-Alertas y notificaciones inteligentes: Notificaciones en tiempo real sobre posibles oportunidades de trading, 
+cambios bruscos en el mercado o nuevos reportes de resultados.
+-Feed de noticias especializadas: Integración de un agregador de noticias de mercado, informes de analistas y resúmenes económicos diarios.
+-Social Trading: Opcionalmente, integración para seguir carteras de otros inversores y comparar el rendimiento entre estrategias.
